@@ -20,9 +20,21 @@ export const TransactionTable = () => {
                         <td>20/07/2021</td>
                     </tr>
                     <tr>
-                        <td>Aluguel</td>
+                        <td>Hamburguer</td>
+                        <td className="withdraw">R$ -45,00</td>
+                        <td>Alimentação</td>
+                        <td>30/07/2021</td>
+                    </tr>
+                    <tr>
+                        <td>Aluguel da Casa</td>
                         <td className="withdraw">R$ -1.100</td>
                         <td>Casa</td>
+                        <td>30/07/2021</td>
+                    </tr>
+                    <tr>
+                        <td>Computador</td>
+                        <td className="deposit">R$ 5.100</td>
+                        <td>Informática</td>
                         <td>30/07/2021</td>
                     </tr>
                 </tbody>
